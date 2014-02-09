@@ -3,6 +3,8 @@
 
   Create a [co generator stream](https://github.com/juliangruber/co-stream)
   from a [node stream](http://nodejs.org/api/stream.html).
+  
+  [![build status](https://secure.travis-ci.org/juliangruber/co-from-stream.png)](http://travis-ci.org/juliangruber/co-from-stream)
 
 ## Usage
 
