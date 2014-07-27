@@ -4,7 +4,8 @@
   Create a [co generator stream](https://github.com/juliangruber/co-stream)
   from a [node stream](http://nodejs.org/api/stream.html).
   
-  [![build status](https://secure.travis-ci.org/juliangruber/co-from-stream.png)](http://travis-ci.org/juliangruber/co-from-stream)
+  [![build status](https://secure.travis-ci.org/juliangruber/co-from-stream.svg)](http://travis-ci.org/juliangruber/co-from-stream)
+  [![downloads](https://img.shields.io/npm/dm/co-from-stream.svg)](https://www.npmjs.org/package/co-from-stream)
 
 ## Usage
 
