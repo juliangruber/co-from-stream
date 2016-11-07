@@ -5,11 +5,11 @@
   "repository": "juliangruber/co-from-stream",
   "license": "MIT",
   "dependencies": {
-    "co-read": "0.0.1"
+    "co-read": "0.1.1"
   },
   "devDependencies": {
-    "co": "~3.0.2",
-    "mocha": "~1.17.1"
+    "co": "~4.6.0",
+    "mocha": "~3.1.2"
   },
   "scripts": {
     "test": "make test"
